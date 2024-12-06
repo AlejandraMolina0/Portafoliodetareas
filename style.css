@@ -1,0 +1,50 @@
+
+*{
+    font-family: "Open Sans", sans-serif;
+}
+header{
+    background-color: #370560;
+}
+.btn{
+    background-color: #9d5ce6;
+    color: aliceblue;
+   
+}
+
+
+.nav a{
+    color: aliceblue;
+}
+
+a.nav-link.active {
+    background-color: #c4a6f7;
+}
+
+
+.habilidades-caja{
+    background-color: #c4a6f7;
+}
+
+.btn-proyectos{
+    background-color:#000000;
+}
+.btn-proyectos a {
+    text-decoration: none;
+    color: #c4a6f7;
+}
+.card .card-title{
+    color: #370560;
+}
+.card-text{
+    color: #370560;
+}
+footer li a i{
+    color: #370560;
+}
+footer p{
+   color: #370560;
+}
+footer p a {
+    text-decoration: none;
+    color: #370560;
+}
